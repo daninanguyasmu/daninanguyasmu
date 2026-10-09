@@ -14,7 +14,7 @@
 - 🌱 I’m currently expanding my knowledge in **Python** and **SQL** through DataCamp data engineering tracks.
 - ⚙️ I enjoy building robust applications, from Java desktop apps (Swing/JavaFX/JDBC) to mathematical modeling and data manipulation scripts in Python.
 - 🏀 **Beyond the screen:** When I'm not coding, I work as a youth basketball coach and perform locally as an acoustic guitarist and singer. 
-- 📫 How to reach me: daniel.nanguyyasmu6122@gmail.com | www.linkedin.com/in/daniel-nanguyasmú-a84176289
+- 📫 How to reach me: daniel.nanguyasmu6122@gmail.com | www.linkedin.com/in/daniel-nanguyasmú-a84176289
 
 ---
 
